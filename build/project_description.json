@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "ESP_wifi_Provision",
-    "project_version":    "1",
+    "project_version":    "3cce3ae-dirty",
     "project_path":       "C:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP_wifi_Provision",
     "idf_path":           "C:/Users/Lenovo/esp/v5.2.2/esp-idf",
     "build_dir":          "C:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP_wifi_Provision/build",
